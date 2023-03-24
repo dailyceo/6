@@ -105,7 +105,7 @@ function App() {
   const blockchain = useSelector((state) => state.blockchain);
   const data = useSelector((state) => state.data);
   const [claimingNft, setClaimingNft] = useState(false);
-  const [feedback, setFeedback] = useState(`Click to mint your ELEMENTAI.`);
+  const [feedback, setFeedback] = useState(`Click to mint your WARRIOR.`);
   const [mintAmount, setMintAmount] = useState(1);
   const [CONFIG, SET_CONFIG] = useState({
     CONTRACT_ADDRESS: "",
@@ -201,7 +201,7 @@ function App() {
 
   useEffect(() => {
     // Calculate the time remaining in the timer
-    const endTime = new Date("2022-12-21T11:30:00Z");
+    const endTime = new Date("2022-12-21T12:00:00Z");
     const timeRemaining = endTime - new Date();
 
     // Set the initial time remaining
@@ -291,7 +291,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Mint Mar 24, 12:30 UTC
+              Mint Mar 24, 13:00 UTC
             </s.TextDescription>
 
 
