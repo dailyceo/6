@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7ce2ac24A870A94EfEB2aFB71314fD32128f3303",
+  "SCAN_LINK": "https://etherscan.io/0x7ce2ac24A870A94EfEB2aFB71314fD32128f3303",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Tengoko Warriors",
+  "SYMBOL": "TENGOKO",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.10000000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/tengoko-warriors",
+  "SHOW_BACKGROUND": true
+}
