@@ -291,7 +291,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Mint Mar 24, 13:00 UTC
+              Mint Mar 25, 13:00 UTC
             </s.TextDescription>
 
 
